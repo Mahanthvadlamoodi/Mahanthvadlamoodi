@@ -8,7 +8,7 @@ I'm venkata suba mahanth vadlamoodi.I am a sophomore at IIT Kharagpur persuing b
 - ➡️C/C++/Python 
 - ➡️code enthusiast 
 - ➡️problem solving 
-- ➡️web developer/frontend
+- ➡️web developer/full-stack
 - ⚡ Intrests: Development and Photography
 - 😄 Pronouns: He/Him
 - 📫 How to reach me: mail me at mahanth256305@gmail.com call me at +91 6304608757 
