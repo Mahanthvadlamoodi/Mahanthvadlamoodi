@@ -1,8 +1,8 @@
 Hi there 👋
-I'm venkata suba mahanth vadlamoodi.I am a sophomore at IIT Kharagpur persuing bachelors of technology degree in Electrical Engineering.
+I'm venkata suba mahanth vadlamoodi.I am a sophomore at IIT Kharagpur persuing Masters of technology degree in Electrical Engineering specializing Signal Processing and Machine Learning.
 
 
-- 🏫 3rd Year Undergraduate student at IIT Kharagpur
+- 🏫 4th Year Undergraduate student at IIT Kharagpur
 - 🌱 I’m currently learning software development and competitive programming
 - 👯 I’m looking to collaborate on android development and web development.
 - ➡️C/C++/Python 
